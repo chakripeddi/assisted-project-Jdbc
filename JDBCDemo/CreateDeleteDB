@@ -1,9 +1,3 @@
-=================================================
-
-Create, Select and drop DB
-==============================
-
-
 package jdbcdemo;
 
 import java.sql.Connection;
